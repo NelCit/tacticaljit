@@ -1,6 +1,6 @@
 {
   "name": "tacticalmaprenderer",
-  "author": "Faareoh",
+  "author": "NelCit",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/E-bou/TacticalMapRenderer.git"
+    "url": "git+https://github.com/NelCit/tacticaljit.git"
   },
   "license": "ISC",
   "devDependencies": {
